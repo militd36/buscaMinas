@@ -3,6 +3,7 @@
 const int filas_max = 30;
 const int columas_max = 30;
 using namespace std;
+//test
 
 //1.- Iniciar y setear tablero
 // Colocar Minas random (ColocaMinas)
